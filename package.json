@@ -1,7 +1,7 @@
 {
   "name": "hyderabad-syntax-dark",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A dark syntax theme for Atom",
   "keywords": [
     "syntax",
